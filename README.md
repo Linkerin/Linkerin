@@ -26,10 +26,8 @@ Besides the role of a developer, I also have a solid background as a project man
 
 I am a self-taught developer and completed some courses:
 
-<div align="center">
 <a href="https://certificates.cs50.io/263f9a9a-0062-4a1e-ab85-893204096c60.pdf?size=letter" aria-label="Navigate to CS50x certificate page"><img src="./images/CS50x.png" alt="CS50x course certificate" width="49%"></a>
-<a href="https://certificates.cs50.io/ed642583-26e6-4697-84ab-05dad7d5bb6b.pdf?size=letter" aria-label="Navigate to CS50Web certificate page"><img src="./images/CS50Web.png" alt="CS50Web course certificate" width="49%">
-</div></a>
+<a href="https://certificates.cs50.io/ed642583-26e6-4697-84ab-05dad7d5bb6b.pdf?size=letter" aria-label="Navigate to CS50Web certificate page"><img src="./images/CS50Web.png" alt="CS50Web course certificate" width="49%"></a>
 
 ### Contacts <a id="contacts"></a>
 
