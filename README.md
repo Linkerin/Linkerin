@@ -1,4 +1,4 @@
-[![header](./images/header.png)](https://github.com/Linkerin)
+[![header](./images/header.svg)](https://github.com/Linkerin)
 
 ## Hello there, I'm Alexey Gusev 👋
 
