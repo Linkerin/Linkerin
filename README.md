@@ -40,4 +40,4 @@ I make every effort to obtain high-quality knowledge:
 
 ### Contacts <a id="contacts"></a>
 
-Do you want to get in touch? Here is my [UpWork profile](https://upwork.com/freelancers/~01a560d422b3a5df3e) and an e-mail: [gusev@snipshot.dev](mailto:gusev@snipshot.dev). Looking forward to hearing from you! 😉
+Do you want to get in touch? Here is my [UpWork profile](https://upwork.com/freelancers/~01a560d422b3a5df3e) and an e-mail address: [gusev@snipshot.dev](mailto:gusev@snipshot.dev). Looking forward to hearing from you! 😉
